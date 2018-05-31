@@ -1,7 +1,5 @@
 -----------------------------------------------------------------------------------------------------
 
-## UPDATE!!!
-
 We redesigned the GUI, and the program was optimized.
 
 Have a look:
